@@ -1,0 +1,12 @@
+C:\Users\bitmi\source\repos\NovaOS\bin\Debug\net6.0\NovaOS.deps.json
+C:\Users\bitmi\source\repos\NovaOS\bin\Debug\net6.0\NovaOS.dll
+C:\Users\bitmi\source\repos\NovaOS\bin\Debug\net6.0\NovaOS.pdb
+C:\Users\bitmi\source\repos\NovaOS\obj\Debug\net6.0\NovaOS.csproj.AssemblyReference.cache
+C:\Users\bitmi\source\repos\NovaOS\obj\Debug\net6.0\NovaOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitmi\source\repos\NovaOS\obj\Debug\net6.0\NovaOS.AssemblyInfoInputs.cache
+C:\Users\bitmi\source\repos\NovaOS\obj\Debug\net6.0\NovaOS.AssemblyInfo.cs
+C:\Users\bitmi\source\repos\NovaOS\obj\Debug\net6.0\NovaOS.csproj.CoreCompileInputs.cache
+C:\Users\bitmi\source\repos\NovaOS\obj\Debug\net6.0\NovaOS.dll
+C:\Users\bitmi\source\repos\NovaOS\obj\Debug\net6.0\refint\NovaOS.dll
+C:\Users\bitmi\source\repos\NovaOS\obj\Debug\net6.0\NovaOS.pdb
+C:\Users\bitmi\source\repos\NovaOS\obj\Debug\net6.0\ref\NovaOS.dll

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cosmos.System2_Plugs</name>
+    </assembly>
+    <members>
+        <member name="M:Cosmos.System_Plugs.System.ConsoleImpl.Beep(System.Int32,System.Int32)">
+            <summary>
+            The ArgumentOutOfRangeException check is now done at driver level in PCSpeaker - is it still needed here?
+            </summary>
+            <param name="aFrequency"></param>
+            <param name="aDuration"></param>
+        </member>
+        <member name="M:Cosmos.System_Plugs.System.ConsoleImpl.Beep">
+            <summary>
+            Beep() is pure CIL
+            Default implementation beeps for 200 milliseconds at 800 hertz
+            In Cosmos, these are Cosmos.System.Duration.Default and Cosmos.System.Notes.Default respectively,
+            and are used when there are no params
+            https://docs.microsoft.com/en-us/dotnet/api/system.console.beep?view=netcore-2.0
+            </summary>
+        </member>
+        <member name="M:Cosmos.System_Plugs.System.Drawing.ColorImpl.FromName(System.String)">
+            <summary>Implements System.Drawing.Color.FromName
+            <para>See https://docs.microsoft.com/de-de/dotnet/api/system.drawing.color.fromname?view=netcore-3.1 for Usage Explanation</para>
+            </summary>
+        </member>
+		<member name="M:System.Reflection.RuntimeAssembly.GetSimpleName(System.Runtime.CompilerServices.QCallAssembly,System.Runtime.CompilerServices.StringHandleOnStack)">
+			<summary>
+				Provides native implementation for System.Reflection.RuntimeAssembly.GetSimpleName.
+				This is a plug for Cosmos IL2CPU compiler.
+			</summary>
+			<param name="assembly">The QCallAssembly parameter.</param>
+			<param name="name">The StringHandleOnStack parameter.</param>
+		</member>
+		<member name="M:System.Void">
+			<summary>
+				Void
+			</summary>
+		</member>
+
+	</members>
+</doc>
