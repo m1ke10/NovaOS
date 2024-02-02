@@ -24,7 +24,6 @@ We welcome contributions to NovaOS! Please feel free to submit pull requests or 
 
 Roadmap:
 
-    File System Support: Implementing a basic file system for persistent storage.
     Networking: Enabling network connectivity for communication and resource sharing.
     User Interface: Exploring options for a simple user interface, potentially using a graphical environment.
     Application Development: Creating a framework for building and running applications on NovaOS.
