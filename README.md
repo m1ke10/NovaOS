@@ -1,14 +1,11 @@
 # NovaOS
 
-A bright new star in the Cosmos
-
-NovaOS is a lightweight, experimental operating system built using the COSMOS (C# Open Source Managed Operating System) framework. It aims to explore the potential of managed code for system development and provide a platform for innovation and experimentation.
+A hobbyist OS
 
 Key Features:
 
-    Built on COSMOS: Leverages the power and flexibility of COSMOS to create a robust and manageable OS that is easy to modify for beginners.
-    C# Development: Embraces the C# language for a familiar and productive development experience, allowing developers to harness their .NET skills.
-    Currently in Development: NovaOS is actively under development, with exciting features and improvements planned for the future.
+    Built on COSMOS: It allows anyone to add to the codebase with basic C# Knowledge
+    Extremely minimal: It acts as a good starter for a new OS
 
 Getting Started:
 
@@ -35,6 +32,6 @@ Roadmap:
 Join the NovaOS Community:
 
     GitHub Repository: https://github.com/m1ke10/NovaOS
-    Discord Server: (not set up yet)
+    Discord Server: https://discord.gg/fGrmsE965Y
 
 Let's create something new together!
