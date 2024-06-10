@@ -26,13 +26,11 @@ We welcome contributions to NovaOS! Please feel free to submit pull requests or 
 
 Roadmap:
 
-    Networking: Enabling network connectivity for communication and resource sharing.
-    User Interface: Exploring options for a simple user interface, potentially using a graphical environment.
-    Application Development: Creating a framework for building and running applications on NovaOS.
+    This project is discontinued.
 
 Join the NovaOS Community:
 
     GitHub Repository: https://github.com/m1ke10/NovaOS
-    Discord Server: https://discord.gg/fGrmsE965Y
+    Discord Server: [THIS PROJECT IS DEAD! I do not see a reason to link the Discord server]
 
 Let's create something new together!
