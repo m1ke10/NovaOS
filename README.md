@@ -1,5 +1,7 @@
 # NovaOS
 
+# THIS PROJECT HAS BEEN DISCONTINUED!! 
+
 A hobbyist OS
 
 Key Features:
